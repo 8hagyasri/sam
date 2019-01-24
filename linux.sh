@@ -1,2 +1,3 @@
 date
 calendar
+hostname
